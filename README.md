@@ -3,7 +3,6 @@
 ## Overview ::
 This repository contains the implementation of a loan default prediction model using XGBoost. The model is trained to predict whether a loan applicant is likely to default based on various features such as income, credit score, loan amount, etc.
 
-
 ## Dataset
 The dataset used for training and evaluation contains information on loan applicants, including their financial profiles, employment details, and loan terms. It consists of both numerical and categorical features.
 
